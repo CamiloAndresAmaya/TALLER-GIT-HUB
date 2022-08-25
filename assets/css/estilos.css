@@ -28,5 +28,18 @@ body{
   .btn-VerPeliculas:hover{
     background-color: azure;
   }
-  
-  
+  .bob{
+    background-color: cadetblue;width: 500px;border-radius: 10px;border-top-left-radius: 10px;text-align: center;margin: 100px auto 100px auto;border: 5px dashed #FFFFFF;padding: 12px;
+}
+.bob h2{
+    color: darkorange;
+}
+.btn{box-shadow: 3px 3px #30449C;background-color:cornflowerblue;cursor: pointer;
+}
+
+.btn:hover{
+    background-color:skyblue ;
+}
+  .imagen{
+    width: 500px;
+  }
